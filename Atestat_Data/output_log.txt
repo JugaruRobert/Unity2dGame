@@ -1,0 +1,48 @@
+Mono path[0] = 'F:/Aplicatie/Atestat_Data/Managed'
+Mono path[1] = 'F:/Aplicatie/Atestat_Data/Mono'
+Mono config path = 'F:/Aplicatie/Atestat_Data/Mono/etc'
+PlayerConnection initialized from F:/Aplicatie/Atestat_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55505
+Multi-casting "[IP] 192.168.100.2 [Port] 55505 [Flags] 3 [Guid] 3692004531 [EditorId] 2444167282 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-3RPJKJO) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.100.2:55505]...
+Timed out. Continuing without host connection.
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56531
+PlayerConnection already initialized - listening to [192.168.100.2:55505]
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 (ID=0xfc6)
+    Vendor:   NVIDIA
+    VRAM:     972 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename: C:/buildslave/unity/build/Runtime/BaseClasses/TagManager.cpp Line: 88)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Aplicatie\Atestat_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Aplicatie\Atestat_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Aplicatie\Atestat_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Aplicatie\Atestat_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Aplicatie\Atestat_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Aplicatie\Atestat_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Aplicatie\Atestat_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Aplicatie\Atestat_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+Platform assembly: F:\Aplicatie\Atestat_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Aplicatie\Atestat_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.473455 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1b8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.341682 ms
+System memory in use before: 85.7 MB.
+System memory in use after: 85.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 483.
+Total: 0.159584 ms (FindLiveObjects: 0.014898 ms CreateObjectMapping: 0.015561 ms MarkObjects: 0.122833 ms  DeleteObjects: 0.004635 ms)
+
